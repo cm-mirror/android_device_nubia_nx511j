@@ -1,6 +1,6 @@
 Copyright 2015 - The CyanogenMod Project
 
-Device configuration for ZTE Nubia Z9 Max.
+Device configuration for ZTE Nubia Z9 mini.
 =====================================
 
 Basic   | Spec Sheet
@@ -20,3 +20,5 @@ Front Camera | 8.0 MP
 Release Date | March 2015
 
 ![ZTE Nubia Z9 mini](http://static.nubia.cn/product/z9mini_jy/images/params/params_z9mini_jy01.jpg "ZTE Nubia Z9 mini")
+
+Thanks to parheliamm
