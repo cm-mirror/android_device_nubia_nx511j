@@ -172,7 +172,7 @@ TARGET_HAVE_SIGNED_VENUS_FW := true
 # SELinux
 include device/qcom/sepolicy/sepolicy.mk
 
-# if build twrp use mokee tree, just remove '#'
+# if build twrp use cyanogenmod tree, just remove '#'
 #RECOVERY_VARIANT := twrp
 # Recovery
 TARGET_RECOVERY_FSTAB := device/nubia/nx511j/ramdisk/fstab.qcom
@@ -203,7 +203,7 @@ BOARD_CANT_BUILD_RECOVERY_FROM_BOOT_PATCH := true
 BOARD_RIL_CLASS := ../../../device/nubia/nx511j/ril/
 
 #d2tw
-BOARD_HARDWARE_CLASS := hardware/mokee/mkhw
+BOARD_HARDWARE_CLASS := hardware/cyanogenmod/cmhw
 TARGET_TAP_TO_WAKE_NODE := "/data/tp/easy_wakeup_gesture"
 
 # Radio
