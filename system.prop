@@ -218,5 +218,6 @@ sys.io.scheduler=bfq
 
 ro.telephony.ril_class=NubiaUiccRIL
 
-# Maintainer
-ro.mk.maintainer=parhelia
+romjd.rom.id=d88f833e-8253-4550-9f27-77549f143ae7
+romjd.rom.version=1.1.0
+romjd.rom.version.code=1
